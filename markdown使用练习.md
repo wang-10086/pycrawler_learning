@@ -14,7 +14,7 @@ markdown是一种好用的语言
 
 戳这里[百度](http://www.baidu.com)
 
-<img src="C:\Users\wangkun\Pictures\Camera Roll\2019-11-13 141616.jpg" alt="桌面图" style="zoom:80%;" />
+![桌面图](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2873789948,317726200&fm=26&gp=0.jpg)
 
 ***
 
